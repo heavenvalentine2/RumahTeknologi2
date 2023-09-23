@@ -1,0 +1,17 @@
+{
+    "bladeFormatter.format.wrapAttributes": "auto",
+    "bladeFormatter.format.wrapLineLength": 120,
+    "bladeFormatter.format.indentSize": 2,
+    "editor.tabSize": 2,
+    "html.format.wrapLineLength": 0,
+    "blade.format.enable": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "html.format.templating": true,
+    "bladeFormatter.format.enabled": true,
+    "editor.insertSpaces": true,
+    "editor.formatOnType": false,
+    "editor.stickyScroll.maxLineCount": 2,
+    "editor.hover.sticky": true,
+    "editor.stickyScroll.enabled": false
+}
